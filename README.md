@@ -105,7 +105,12 @@ Ouvrez votre navigateur :
 👉 http://localhost:8080
 
 ---
+### 🔐 Accès par défaut (Admin)
+Pour accéder à l'interface de gestion, utilisez les identifiants suivants :
 
+Identifiant : admin
+
+Mot de passe : 1234
 ## ⚙️ Configuration (application.properties)
 
 ```properties
